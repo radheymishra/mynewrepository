@@ -1,5 +1,5 @@
 <?php
-// this is second marege
+// this is second merege 
 /**
  * CodeIgniter
  *
